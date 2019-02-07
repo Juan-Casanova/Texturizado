@@ -1,0 +1,16 @@
+poligonos
+desayuno
+vino
+manos
+
+
+
+3 vistas con los datos
+
+3 CARPETAS
+
+	escenas
+
+	imagenes
+
+	imagenes renders.. 
